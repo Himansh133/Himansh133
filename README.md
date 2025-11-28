@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Docker and Cloud**
 
 - 👨‍💻 All of my projects are available at [himansh.in](himansh.in)
 
