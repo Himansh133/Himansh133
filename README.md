@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Docker and Cloud**
 
-- 👨‍💻 All of my projects are available at [himansh.in](himansh.in)
+
 
 - 📫 How to reach me **himanshu3836@gmail.com**
 
