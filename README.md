@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, Docker and Cloud**
-
-
-
-- 📫 How to reach me **himanshu3836@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu-kumar-8686aa2a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/_himansh_321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_himansh_321" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Himansh133&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Himanshu Kumar</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himansh133&show_icons=true&locale=en" alt="himansh133" /></p>
+<p align="center">
+  Building C++ tooling, backend APIs and LLM agents.<br/>
+  ECE-CS at JIIT Noida, class of 2027.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himansh133&" alt="himansh133" /></p>
+<p align="center">
+  <a href="https://himansh.tech"><img src="https://img.shields.io/badge/Portfolio-himansh.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/himanshu-kumar-8686aa2a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.himansh.tech/Himanshu_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:himanshu3836@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+---
+
+**Now:** software engineering intern at JV Micronics. I built a C++17 and Qt6 tool that cut an antenna sweep from 10 hours to 7 minutes, now used by about 50 RF engineers.
+
+**Open source:** 3 merged PRs to Corsair (YC W25), including a full Turbot Pipes plugin with 86 tests.
+
+**Wins:** 1st place at hyperSprint 2026, OCI DevOps certified, LeetCode 1700+, Codeforces Pupil.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,qt,fastapi,nextjs,react,nodejs,postgres,docker,githubactions,aws,linux&perline=13" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Himansh133">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Himansh133&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  </a>
+</p>
+
+Open to internships and full-time roles in systems, backend and AI-agent engineering.
+More projects and write-ups at [himansh.tech](https://himansh.tech).
