@@ -18,8 +18,6 @@
 
 ---
 
-**Now:** software engineering intern at JV Micronics. I built a C++17 and Qt6 tool that cut an antenna sweep from 10 hours to 7 minutes, now used by about 50 RF engineers.
-
 **Open source:** 3 merged PRs to Corsair (YC W25), including a full Turbot Pipes plugin with 86 tests.
 
 **Wins:** 1st place at hyperSprint 2026, OCI DevOps certified, LeetCode 1700+, Codeforces Pupil.
